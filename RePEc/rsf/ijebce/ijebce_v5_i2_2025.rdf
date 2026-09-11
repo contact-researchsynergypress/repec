@@ -1,0 +1,191 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Benni Agung Nugroho
+Author-Email: rinanza.z.alhamri@polinema.ac.id
+Author-Workplace-Name: Politeknik Negeri Malang
+Author-Name: Rinanza Zulmy Alhamri
+Author-Workplace-Name: Politeknik Negeri Malang
+Author-Name: Toga Aldila Cinderatama
+Author-Workplace-Name: Politeknik Negeri Malang
+Title: Mobile Based Application for Loan Approval and Loan Distribution Using Machine Learning in Savings and Loan Cooperatives
+Abstract: Several savings and loan cooperatives (KSP) in Kediri City, Indonesia have used a website-based information system for increasing efficiency. However, the financial health of KSP in Kediri City remains low because there are many delays in credit payments and even bad credit occurs. Manual profiling for approving loan application causes bad decisions. The management needs a function to obtain recommendation for approving loan application and also for distributing the loan service to potential members automatically. The purpose of this research is to develop a mobile based application for loan approval recommendation and loan distribution utilizing Machine Learning (ML) in KSP and to study the performance of the model using Support Vector Machine (SVM) method. It adopted Waterfall Method including analysis, design, implementation, and testing for two purposes including SVM model development and Android based application development. The dataset experienced preprocess including data cleaning, label encoding, and normalization. It obtained amounts to 150 data for loan approval recommendation and 150 data for loan distribution. Implementation stage includes developing Android based application and Python based ML. The testing stage uses functional testing for Android application and K-Fold Cross Validation for ML performance. Android application has two users, the first is admin that can manage member, retrieve loan approval recommendation, and manage loan application, then the second is member that can retrieve loan distribution and apply loan. The performance of the ML using SVM includes the accuracy of loan approval recommendation reached 90%, while loan distribution reached 85%.
+Keywords: Android; Machine Learning; Support Vector Machine; Savings and Loan Cooperatives
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 1-18
+DOI: 10.31098/ijebce.v5i2.3397
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3397/1785
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:1-18
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Edsel A Patal
+Author-Email: eapatal@slsu.edu.ph
+Author-Workplace-Name: Bureau of the Treasury
+Author-Name: Nguyễn Sinh Công
+Author-Email: congsinh@slsu.edu.ph
+Author-Workplace-Name: Binh Duong University
+Author-Name: Trịnh Huy Ngọc
+Author-Email: ngochuy@slsu.edu.ph
+Author-Workplace-Name: Scientific Institute of Human Resource Management
+Author-Name: Jesus P Briones
+Author-Email: jpbriones@firstasia.edu.ph
+Author-Workplace-Name: First Asia Institute of Technology and Humanities; World Citi Colleges; University of Batangas
+Author-Name: Joanna Paula E Verano
+Author-Email: joannapaula.ellaga@slsu.edu.ph
+Author-Workplace-Name: Southern Luzon State University
+Title: Impact of Balanced Scorecard Implementation to Employee Well-Being: Evidence from a Manufacturing Company in Vietnam
+Abstract: Well-being of employees is important in order to provide prompt and committed production of high-quality products and services in manufacturing industries. This study investigated the relationship between balanced scorecard (BSC) implementation and employee well-being (EWB) in a manufacturing company in Vietnam. Recognizing the importance of both BSC as a strategic tool and EWB as a driver of organizational success, the researchers aimed to address the limited research directly evaluating the impact of BSC implementation on the wide range of EWB dimensions. Using a quantitative-descriptive research method, data were collected from 350 employees from a manufacturing company in Vietnam through a self-structured questionnaire formatted in HMIS scientific survey software form and distributed via electronic mail and messenger. The data were analyzed using frequency, percentage, weighted mean, and simple linear regression. The findings revealed a high level of BSC implementation and a correspondingly high level of EWB within the studied company. The findings revealed a significant positive relationship between all dimensions of BSC and the key dimensions of EWB. The study concluded that BSC implementation positively influences EWB by providing a clearer understanding of organizational strategy, increasing employees' sense of purpose, and aligning individual efforts with strategic goals. The study also proposed guidelines for BSC implementation to further enhance EWB. The study offers managers useful, evidence-based recommendation on how the use BSC can improve and maintain EWB for mutual gain of both the organization and employees.
+Keywords: Balanced Scorecard; Employee Well-being; Job Satisfaction; Organizational Commitment; Vietnam Manufacturing Company; Work Engagement
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 19-41
+DOI: 10.31098/ijebce.v5i2.3351
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3351/1786
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:19-41
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Xavier Lawrence Mendoza
+Author-Email: xavierlawrence.mendoza@cvsu.edu.ph
+Author-Workplace-Name: Cavite State University
+Author-Name: Nerisa B Abug
+Author-Workplace-Name: Cavite State University
+Title: Moderating Role of Feedback Methods in Customer-Centric Innovation Adoption: Evidence on Micro and Small Enterprises in Cavite, Philippines
+Abstract: This study investigates the role of customer feedback methods on the behavioral intention to adopt customer-centric innovation among micro and small enterprises (MSEs) in Cavite, Philippines. Using a predictive-causal research design and Partial Least Squares Structural Equation Modeling (PLS-SEM), the study examines the relationships between customer ideas, organizational beliefs and values, enterprise resources, feedback methods, and behavioral intention to adopt customer-centric innovation. Data were collected from 125 MSEs in select municipalities of Cavite. Results confirm the positive impact of customer ideas, organizational beliefs and values, and resources on innovation adoption intention. Generally, the study reveals a moderating role of feedback methods. While feedback strengthens the link between customer ideas and intention to adopt customer-centric innovation, it &nbsp;negatively impacts the relationship between enterprise resources and intention. The study highlights the importance of strategically designed, lean, and actionable feedback mechanisms for MSEs, emphasizing the need for alignment with business size and resource availability.These findings contribute to the literature on innovation management in developing economies and offer practical insights for entrepreneurs and policymakers supporting MSEs.
+Keywords: behavioral intention; customer feedback; MSEs; moderation analysis; PLS-SEM
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 42-62
+DOI: 10.31098/ijebce.v5i2.3152
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3152/1787
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:42-62
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mohamad Rafii
+Author-Email: mohamadrafii@gmail.com
+Author-Workplace-Name: Universitas Muhammadiyah Palangkaraya
+Author-Name: Ahyar Junaedi
+Author-Email: sahaza777@gmail.com
+Author-Workplace-Name: Universitas Muhammadiyah Palangkaraya
+Author-Name: Bayu Suratmoko
+Author-Email: bayusuratmoko60@gmail.com
+Author-Workplace-Name: Universitas Muhammadiyah Palangkaraya
+Title: Islamic Banking Digital Marketing Strategy: Using Social Media and Content Marketing on Interest in Service Usage
+Abstract: This study aims to analyze the effectiveness of digital marketing strategies in increasing consumer interest in Islamic banking services, focusing on the role of social media and content marketing. Using a quantitative approach, data was collected through a survey of 109 respondents who are customers of Bank Syariah Indonesia. The results of the analysis show that the use of social media significantly influences consumer awareness and emotional engagement, while informative and relevant content marketing builds trust and interest in Islamic banking products. Collectively, social media and content marketing can increase consumer interest in Islamic banking services by 84.6%. These findings show that digital marketing, through social media and content marketing, has a very important role in driving consumer interest in choosing and using Islamic banking services, and strengthening the position of Islamic banking in the global financial market.
+Keywords: Digital marketing; Social media; Content marketing; Islamic banking; Consumer interest
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 63-82
+DOI: 10.31098/ijebce.v5i2.3312
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3312/1790
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:63-82
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Nindya Saraswati
+Author-Email: nindya.saraswati@unisba.ac.id
+Author-Workplace-Name: Universitas Islam Bandung
+Author-Name: Hendrati Dwi Mulyaningsih
+Author-Email: Hendrati.dwi@gmail.com
+Author-Workplace-Name: Universitas Islam Bandung
+Title: What Really Keeps Coffee Customers Coming Back? The Trust-Mediated Role of Service Quality, Location, and Loyalty
+Keywords: Service Quality; Location; Customer Trust; Customer Loyalty; Structural Equation Modelling
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 83-95
+DOI: 10.31098/ijebce.v5i2.3540
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3540/1789
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:83-95
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Polycarpe Feussi
+Author-Email: polycarpef@gmail.com
+Author-Workplace-Name: University of south africa
+Author-Name: Charles Mbohwa
+Author-Email: Mbohwc1@unisa.ac.za
+Author-Workplace-Name: University of South Africa
+Author-Name: Marcus Dlamini
+Author-Email: marcus.dlamini1@gmail.com
+Author-Workplace-Name: Independant
+Title: Exploring Civil Engineers' Entrepreneurial Competence In South Africa
+Abstract: This study examines the entrepreneurial aptitude of civil engineers in South Africa by surveying 340 engineers from the South African Institution of Civil Engineering (SAICE). Given the economic and technological changes in the engineering sector, it is crucial to understand the entrepreneurial skills of civil engineers to encourage innovation and enhance industry competitiveness. The research was undertaken using a quantitative cross-sectional method to collect data randomly from 374 individuals among over 10,000 registered engineers, ensuring a representative sample of the larger population. The research employed a structured questionnaire to assess entrepreneurial competence in areas such as identifying opportunities, evaluating risks, managing resources, and strategic thinking. Statistical analysis is used to gauge levels of entrepreneurial skills and identify factors that impact these competencies. The outcomes reveal varied entrepreneurial capabilities among civil engineers, with strengths in opportunity recognition and resource mobilisation but challenges in risk management and strategic planning. These results emphasize the need for tailored training and development programs to enhance entrepreneurial skills in the civil engineering field. The study contributes to the discourse on the role of civil engineers as innovators in the construction industry, highlighting the significance of integrating entrepreneurial education into engineering curricula and professional development initiatives. By equipping engineers with robust entrepreneurial capabilities, the industry can navigate complexities more effectively and drive sustainable growth in South Africa.
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 96-110
+DOI: 10.31098/ijebce.v5i2.2766
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/2766/1791
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:96-110
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Nilla Apsary
+Author-Email: nillaapsary@gmail.com
+Author-Workplace-Name: Universitas Teknologi Muhammadiyah Jakarta
+Author-Name: Lela Nurlaela Wati
+Author-Email: lela@utmj.ac.id
+Author-Workplace-Name: Universitas Teknologi Muhammadiyah Jakarta
+Author-Name: Rita Yuni Mulyanti
+Author-Email: rita@utmj.ac.id
+Author-Workplace-Name: Universitas Teknologi Muhammadiyah Jakarta
+Title: Bridging Networks and Skills: The Moderating Role of Capital Access in Enhancing Post-Migrant SMEs Performance
+Abstract: This study analyses the role of community networks, specifically social capital, human capital investment (HCI), and capital access, in strengthening the impact of both forms of capital on the performance of micro, small, and medium enterprises (MSMEs) established by former Indonesian Migrant Workers (post-PMI). This study employs a quantitative methodology with a causal framework to achieve its objectives. The sample consisted of owners or managers of post-PMI MSMEs guided by the Indonesian Migrant Worker Protection Service Centre (BP3MI) across 23 provinces in Indonesia, totalling 200 MSMEs. The data were analysed using moderated regression analysis. The results demonstrate that community networks, HCI, and capital access have a positive influence on the performance of post-PMI MSMEs. Capital access has a positive moderating effect on the influence of community networks on the performance of MSMEs. Capital access has an adverse moderating effect on the influence of HCI on the performance of post-PMI MSMEs. The results of this study make a significant contribution to the development of social and human capital theories, particularly in the context of post-PMI MSMEs. The availability of financial capital is crucial for leveraging the opportunities that emerge from social networks. The finding that capital access negatively moderates the influence of HCI on MSME performance highlights the importance of limitations in applying skills and knowledge without sufficient financial resources to implement them. This study presents a novel examination of capital access as a moderating variable in the performance of MSMEs particularly among of post-migrant workers, a topic that has not been previously addressed by researchers.
+Keywords: Indonesian Migrant Workers; social capital; human capital; financial access; non finance performance
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 111-128
+DOI: 10.31098/ijebce.v5i2.3488
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3488/1792
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:111-128
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Satria Veriansyah Wiguna
+Author-Email: sveriansyah@gmail.com
+Author-Workplace-Name: Sekolah Tinggi Ilmu Ekonomi Surakarta
+Author-Name: Putri Dini Octavia Ardiansyah
+Author-Email: Putridini.oa@gmail.com
+Author-Workplace-Name: Sekolah Tinggi Ilmu Ekonomi Surakarta
+Title: The Effect of Customer Experience, Service Quality, and Brand Engagement on Brand Perception in the Multimedia Industry: A Case Study of SON Videoworks
+Abstract: This study examines the influence of customer experience, service quality, and brand engagement on brand perception at the multimedia company SON Videoworks. Positive brand perception is the key to fostering customer loyalty and generating recommendations in the competitive creative services industry.This study employs a quantitative approach through a survey of 150 SON Videoworks customers using a Likert-scale questionnaire which was tested for validity and reliability. Data analysis with multiple linear regression reveals that customer experience, service quality, and brand engagement have a significant positive impact on brand perception, both individually and collectively. Customer experience has the strongest influence. The results highlight the importance of delivering a positive and meaningful customer experience, which is supported by dependable service and strong emotional connections with the brand. The study offers strategic insights for SON Videoworks to enhance competitiveness by strengthening brand perception through consistent, high-quality customer interactions.
+Keywords: Customer Experience; Service Quality; Brand Engagement; Brand Perception; Multimedia
+Journal: International Journal of Entrepreneurship, Business and Creative Economy
+Volume: 5
+Issue: 2
+Year: 2025
+Month: 7
+Pages: 129-144
+DOI: 10.31098/ijebce.v5i2.3353
+File-URL: https://journals.researchsynergypress.com/index.php/ijebce/article/download/3353/1793
+File-Format: application/pdf
+File-Function: Full text
+Handle: RePEc:rsf:ijebce:v:5:y:2025:i:2:p:129-144
